@@ -1,0 +1,26 @@
+PODS:
+  - FloatRatingView (4.0)
+  - IQKeyboardManager (6.5.10)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+
+DEPENDENCIES:
+  - FloatRatingView (~> 4)
+  - IQKeyboardManager
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - FloatRatingView
+    - IQKeyboardManager
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  FloatRatingView: bb6bdddfbeec51b1d387b4bd50abc27b4dfccd48
+  IQKeyboardManager: 45a1fa55c1a5b02c61ac0fd7fd5b62bb4ad20d97
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+
+PODFILE CHECKSUM: b9836da929d5b4e2820304d412de9c1d09e60edc
+
+COCOAPODS: 1.11.3
